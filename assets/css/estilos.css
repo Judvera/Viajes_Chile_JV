@@ -1,0 +1,84 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+
+body {
+  font-family: "Raleway", "Open Sans";
+  color: white;
+  background-color: black;
+
+}
+
+.navbar {
+  background-color: transparent;
+  color: white;
+
+}
+
+.container_h1 {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.hr_linea {
+  background-color: #16a2b7;
+  height: 1px;
+}
+
+.caja0 {
+  background-color: black;
+}
+
+.icono01 {
+  background-color: #16a2b7;
+  padding: 5px;
+}
+
+.fa-iconos {
+  font-size: 35px;
+  color: #fff;
+}
+
+.cajatexto02 {
+  background-color: black;
+  font-family: "Open Sans";
+  color: white;
+  padding: 0;
+  margin: 0;
+  text-align: left;
+
+}
+
+.card00 {
+  background-color: white;
+  margin: 10px;
+}
+
+.card-text03 {
+  background-color: #16a2b7;
+  color: white;
+  text-align: left;
+  height: 300px;
+  padding: 10px;
+}
+
+.card-imagen {
+  height: 140px;
+}
+
+.btn {
+  color: #16a2b7;
+  margin: 10px;
+  padding: 10px;
+  background-color: white;
+}
+
+footer {
+  color: white;
+  font-weight: bold;
+  background-color: #16a2b7;
+  font-family: "Raleway";
+  padding: 3px
+}
